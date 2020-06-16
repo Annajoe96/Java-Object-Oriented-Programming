@@ -18,7 +18,7 @@ This program is to manage a bank account by :
 * Depositing money
 * Validating number of tries for correct pin entry 
 
-##Game
+## Game
 
 This programmes facilitates the following :
 
