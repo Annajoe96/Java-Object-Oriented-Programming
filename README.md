@@ -12,12 +12,19 @@ This is a program to manage the organizational structure in a company. The progr
 
 ## Transaction
 
-This program is to manage a bank account by
+This program is to manage a bank account by :
 
 * Withdrawing money
 * Depositing money
 * Validating number of tries for correct pin entry 
 
+##Game
+
+This programmes facilitates the following :
+
+* Addition of players with player details
+* Updating weight
+* sorting list according to weight
 
 
 
